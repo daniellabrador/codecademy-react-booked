@@ -1,5 +1,3 @@
-import React from "react";
-
 export const ContactsPage = () => {
   /*
   Define state variables for 
