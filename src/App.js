@@ -15,7 +15,7 @@ function App() {
   };
 
   // Implement functions to add data to contacts and appointments
-  const addContact = contact =>  setContacts([...contacts, contact]);
+  const addContact = contact => setContacts([...contacts, contact]);
   const addAppointment = appointment =>
     setAppointment([...appointments, appointment])
 
