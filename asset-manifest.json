@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/codecademy-react-booked/static/js/main.686d703c.chunk.js",
-    "main.js.map": "/codecademy-react-booked/static/js/main.686d703c.chunk.js.map",
+    "main.js": "/codecademy-react-booked/static/js/main.b89837f0.chunk.js",
+    "main.js.map": "/codecademy-react-booked/static/js/main.b89837f0.chunk.js.map",
     "runtime-main.js": "/codecademy-react-booked/static/js/runtime-main.b1f49fa0.js",
     "runtime-main.js.map": "/codecademy-react-booked/static/js/runtime-main.b1f49fa0.js.map",
-    "static/js/2.ff5359a1.chunk.js": "/codecademy-react-booked/static/js/2.ff5359a1.chunk.js",
-    "static/js/2.ff5359a1.chunk.js.map": "/codecademy-react-booked/static/js/2.ff5359a1.chunk.js.map",
+    "static/js/2.e0f4a89a.chunk.js": "/codecademy-react-booked/static/js/2.e0f4a89a.chunk.js",
+    "static/js/2.e0f4a89a.chunk.js.map": "/codecademy-react-booked/static/js/2.e0f4a89a.chunk.js.map",
     "index.html": "/codecademy-react-booked/index.html",
-    "static/js/2.ff5359a1.chunk.js.LICENSE.txt": "/codecademy-react-booked/static/js/2.ff5359a1.chunk.js.LICENSE.txt"
+    "static/js/2.e0f4a89a.chunk.js.LICENSE.txt": "/codecademy-react-booked/static/js/2.e0f4a89a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b1f49fa0.js",
-    "static/js/2.ff5359a1.chunk.js",
-    "static/js/main.686d703c.chunk.js"
+    "static/js/2.e0f4a89a.chunk.js",
+    "static/js/main.b89837f0.chunk.js"
   ]
 }
